@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/qingxun-aesthetics/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/qingxun-aesthetics/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/qingxun-aesthetics/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"青寻盘扣｜让东方美，落在今天"}],["$","meta","1",{"name":"description","content":"青寻盘扣，原创设计师品牌与独立工作室。以非遗盘扣为灵感，做当代新中式饰品。"}],["$","link","2",{"rel":"shortcut icon","href":"/qingxun-aesthetics/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/qingxun-aesthetics/favicon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ab5kK-BW-UhtMzSDVvVGi"}
